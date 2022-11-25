@@ -1,6 +1,5 @@
-from Color_Coding import *
-from Number_Coding import *
 from Pair_Color_Code_Menu import *
+from Color_Pair_Validation import *
 
 if __name__ == '__main__':
   verify_major_minor_color(4, 'White', 'Brown')
