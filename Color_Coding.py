@@ -1,5 +1,4 @@
-MajorColorNames = ['White', 'Red', 'Black', 'Yellow', 'Violet']
-MinorColorNames = ["Blue", "Orange", "Green", "Brown", "Slate"]
+from Color_Constants import *
 
 def generate_major_minor_color(pair_number):
   zero_based_pair_number = pair_number - 1
