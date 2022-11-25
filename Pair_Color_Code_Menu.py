@@ -1,5 +1,4 @@
 from Color_Coding import *
-from Number_Coding import *
 
 print("Pair Number = Major Color + Minor Color")
 print("=======================================")
